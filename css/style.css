@@ -1,0 +1,32 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    background-color:black!important;
+}
+.navbar-brand
+{
+    display: inline-block;
+    padding-top:0.3125rem;
+    padding-bottom:0.3125rem;
+    margin-right:1rem;
+    font-size: 1.25rem;
+    line-height:inherit;
+    white-space:nowrap;
+    color: black!important;
+    font-weight: 700!important;
+}
+.navbar-dark .navbar-nav .nav-link {
+    color: black;
+    font-weight: 700;
+    float: right;
+}
+.navbar-dark .navbar-nav .nav-link:hover {
+ 
+    transition: all 0.3s ease-in-out;
+}
+.navbar-dark .navbar-toggler {
+    color: white;
+    border: none!important;
+}
